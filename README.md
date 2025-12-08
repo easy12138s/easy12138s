@@ -10,7 +10,7 @@
 
 - **后端开发：** Python, Django, FastAPI
 - **AI：** LangChain, OpenAI，Multi-agent system
-- **运维：** Docker, Redis
+- **运维：** Docker, Redis，Nginx，Linux
 
 ---
 
