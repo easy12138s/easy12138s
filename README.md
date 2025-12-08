@@ -21,7 +21,7 @@
 
 ## 📈 GitHub 统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=easy12138s&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=easy&show_icons=true&theme=default)
 
 ## 🏆 语言统计
 
