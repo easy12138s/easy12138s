@@ -7,15 +7,15 @@
 ## 💻 技术栈
 
 - **后端开发：** Python, Django, FastAPI
-- **AI：** LangChain, OpenAI
+- **AI：** LangChain, OpenAI，Multi-agent system
 - **运维：** Docker, Redis
 
 ---
 
 ## 🔍 当前工作
 
-- 使用 **LLM** 和 **Agent 编排** 构建 AI 驱动的后端系统。
-- 探索 **RAG（检索增强生成）** 技术，提升 AI 系统智能性。
+- 后端开发工程师 。
+- 探索 **LLM** 和 **Agent 编排** 构建 AI 驱动的后端系统。
 
 ---
 
