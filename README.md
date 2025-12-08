@@ -9,8 +9,8 @@
 ## 💻 技术栈
 
 - **后端开发：** Python, Django, FastAPI
-- **AI：** LangChain, OpenAI，Multi-agent system
-- **运维：** Docker, Redis，Nginx，Linux
+- **AI：** LangChain, RAG，Multi-agent system
+- **其他：** Docker, Redis，Nginx，Linux
 
 ---
 
