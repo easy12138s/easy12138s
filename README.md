@@ -1,4 +1,4 @@
-![Logo](images/2.png)
+![Logo](images/科技风主页图片.png)
 
 # 嗨，我是 Easy 👋
 
