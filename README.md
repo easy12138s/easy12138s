@@ -2,24 +2,27 @@
 
 # 嗨，我是 Easy 👋
 
-🚀 Python 后端开发工程师 | 🤖 AI Agent 爱好者
+🚀 **Python 后端开发** · 🤖 **让 Agent 拥有记忆与落地能力**
 
 ---
 
-## 💻 技术栈
+## 💻 我做什么
 
-- **后端开发：** Python, Django, FastAPI
-- **AI：** Context-Engineering, RAG，Multi-agent-system
-- **其他：** Docker, Redis，Nginx，Linux
+- 为垂直领域 AI Agent 设计**上下文记忆**与**状态管理**方案
+- 将 Agent 能力封装为**稳定可扩展的后端服务**
+- 关注真实场景下的智能体落地，而非纸上谈兵
 
----
-
-## 🔍 当前工作
-![Logo](images/1.gif)
-- python后端开发工程师
-- 探索AI Agent在生活中的各种应用场景
+**工具箱：** Python · FastAPI · RAG · Docker · Redis
 
 ---
 
+## 🔍 当前状态
 
-- 我相信 **AI + 后端** 将是构建可扩展智能系统的未来。
+![Work](images/1.gif)
+
+- 探索 Agent 在具体领域中的实用化路径
+- 打磨上下文工程，让智能体记得住、用得上
+
+---
+
+> 我相信 **AI + 后端** 是构建可扩展智能系统的基石。
